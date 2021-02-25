@@ -7,4 +7,6 @@
 - [x] ทำโหลดองแบบเป็นจริงเป็นจัง // แนะนำโดย [@phoomin2012](https://github.com/phoomin2012)
 - [ ] DAlerts (Planned 2019)
 - [ ] project-codename-crossover (Planned 2019)
+- [ ] Minecraft FavorList (Planned 2020)
 - [ ] project-codename-netherite (Planned 2020)
+- [x] Anime FavorList (Planned 2020, Done, Paused)
